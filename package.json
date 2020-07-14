@@ -1,0 +1,29 @@
+{
+  "name": "this-is-a-test-repo",
+  "version": "1.0.0",
+  "description": "this-is-a-test-repo\r 1\r 2",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongl0409/this-is-a-test-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hongl0409/this-is-a-test-repo/issues"
+  },
+  "homepage": "https://github.com/hongl0409/this-is-a-test-repo#readme",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
